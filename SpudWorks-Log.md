@@ -10,3 +10,6 @@
 
 * 19:00
     - SpudNet has been skeletonized and ready for the week ahead.
+
+* 20:18
+    - Created the base schedule.
