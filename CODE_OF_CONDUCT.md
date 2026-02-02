@@ -3,7 +3,7 @@
 
 ### Our Pledge
 
-At SpudWorks, we prioritize fostering an environment built on kindness, human decency, and professional integrity.
+At SpudWorks, we prioritize transparency and fostering an environment built on kindness, human decency, and professional integrity.
 
 
 ### Our Standards
