@@ -28,3 +28,9 @@
 
 * 06:16
     - BrotatoBoiV2 has logged out of work.
+
+* 16:12
+    - BrotatoBoiV2 has logged in for work.
+
+* 17:21
+    - BrotatoBoiV2 has logged out early. Reason: Dentists appointment.
