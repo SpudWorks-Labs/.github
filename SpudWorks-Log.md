@@ -1,6 +1,6 @@
 *Note:* All time is in ***UTC***.
 
-*2026-02-01*
+*2026/02/01*
 * 08:00
     - SpudWorks has been launched and is now public.
 
@@ -14,9 +14,14 @@
 * 20:18
     - Created the base schedule.
 
-*2026-02-02*
+*2026/02/02*
 * 16:50
     - BrotatoBoiV2 has logged in for work.
 
 * 20:00
     - The System-Aware skeleton for SpudNet is finished and ready for integration later.
+
+*2026/02/03*
+* 05:23
+    - SpudNet is now finished Phase 1 and needs some
+      comments and documentations in the code.
