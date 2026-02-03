@@ -1,3 +1,6 @@
+**Note:** This schedule is not completely solidified, yet.
+
+
 Monday, Tuesday, Thursday and Friday
     High Intensity Block 2000-2200 UTC | 1500-1700 EST
         2000-2030 UTC | 1500-1530 EST
