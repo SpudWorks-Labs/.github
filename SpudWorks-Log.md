@@ -25,3 +25,6 @@
 * 05:23
     - SpudNet is now finished Phase 1 and needs some
       comments and documentations in the code.
+
+* 06:16
+    - BrotatoBoiV2 has logged out of work.
