@@ -27,7 +27,7 @@
       comments and documentations in the code.
 
 * 06:16
-    - BrotatoBoiV2 has logged out of work.
+    - BrotatoBoiV2 has logged out for work.
 
 * 16:12
     - BrotatoBoiV2 has logged in for work.
@@ -36,7 +36,7 @@
     - BrotatoBoiV2 has logged out early. Reason: Dentists appointment.
 
 * 03:13
-    - BrotatoBoiV2 has logged in to work.
+    - BrotatoBoiV2 has logged in for work.
 
 * 03:50
     - SpudNets Phase 0 was cleaned and fixed to allow the following:
@@ -60,7 +60,11 @@
     - BrotatoBoiV2 is logged out for lunch.
 
 * 18:10
-    - BrotatoBoiV2 logged back in from lunch.
+    - BrotatoBoiV2 logged in from lunch.
 
 * 19:18
     - The "[SpudNet Error]" has been resolved and Phase 2 is almost complete.
+
+* 20:41
+    - SpudNet now has a history that it saves to.
+    - BrotatoBoiV2 has logged out for work.
