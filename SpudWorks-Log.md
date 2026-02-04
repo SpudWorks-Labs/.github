@@ -58,3 +58,9 @@
     - SpudNet has had some updates with `async` methods, but introduced
       a new unknown bug.
     - BrotatoBoiV2 is logged out for lunch.
+
+* 18:10
+    - BrotatoBoiV2 logged back in from lunch.
+
+* 19:18
+    - The "[SpudNet Error]" has been resolved and Phase 2 is almost complete.
