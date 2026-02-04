@@ -34,3 +34,12 @@
 
 * 17:21
     - BrotatoBoiV2 has logged out early. Reason: Dentists appointment.
+
+* 03:13
+    - BrotatoBoiV2 has logged in to work.
+
+* 03:50
+    - SpudNets Phase 0 was cleaned and fixed to allow the following:
+        * Proper multi-line message stacking.
+        * Text kept within the text-field.
+        * Can scroll the messages.
