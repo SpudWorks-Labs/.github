@@ -46,3 +46,7 @@
 
 * 05:15
     - SpudNet has had some latency updates.
+
+* 07:50
+    - SpudNet Phase 2 is almost done, need to fix the responses.
+    - BrotatoBoiV2 has logged out of work.
