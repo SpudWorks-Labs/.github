@@ -50,3 +50,11 @@
 * 07:50
     - SpudNet Phase 2 is almost done, need to fix the responses.
     - BrotatoBoiV2 has logged out of work.
+
+* 16:00
+    - BrotatoBoiV2 has logged in for work.
+
+* 17:00
+    - SpudNet has had some updates with `async` methods, but introduced
+      a new unknown bug.
+    - BrotatoBoiV2 is logged out for lunch.
