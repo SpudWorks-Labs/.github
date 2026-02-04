@@ -43,3 +43,6 @@
         * Proper multi-line message stacking.
         * Text kept within the text-field.
         * Can scroll the messages.
+
+* 05:15
+    - SpudNet has had some latency updates.
