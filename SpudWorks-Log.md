@@ -27,7 +27,7 @@
       comments and documentations in the code.
 
 * 06:16
-    - BrotatoBoiV2 has logged out for work.
+    - BrotatoBoiV2 has logged out from work.
 
 * 16:12
     - BrotatoBoiV2 has logged in for work.
@@ -35,6 +35,7 @@
 * 17:21
     - BrotatoBoiV2 has logged out early. Reason: Dentists appointment.
 
+*2026/02/04*
 * 03:13
     - BrotatoBoiV2 has logged in for work.
 
@@ -57,7 +58,7 @@
 * 17:00
     - SpudNet has had some updates with `async` methods, but introduced
       a new unknown bug.
-    - BrotatoBoiV2 is logged out for lunch.
+    - BrotatoBoiV2 is logged out from lunch.
 
 * 18:10
     - BrotatoBoiV2 logged in from lunch.
@@ -67,4 +68,15 @@
 
 * 20:41
     - SpudNet now has a history that it saves to.
-    - BrotatoBoiV2 has logged out for work.
+    - BrotatoBoiV2 has logged out from work.
+
+*2026/02/05*
+* 16:02
+    - BrotatoBoiV2 has logged in for work.
+
+* 20:50
+    - The docstrings and comments have been updated.
+    - Some extra updates and cleaning needs to be finished.
+
+* 21:00
+    - BrotatoBoiV2 has logged out from work.
