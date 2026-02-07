@@ -93,3 +93,7 @@
 
 * 17:38
     - SpudNet is now able to remeber at the cost of response latency.
+
+* 04:34
+    - A full 3-2-1 backup has been done.
+    - BrotatoBoiV2 has logged out from work.
