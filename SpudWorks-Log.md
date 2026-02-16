@@ -97,3 +97,11 @@
 * 04:34
     - A full 3-2-1 backup has been done.
     - BrotatoBoiV2 has logged out from work.
+
+*2026/02/16*
+* 16:54
+    - BrotatoBoiV2 has logged in for work.
+    - Created new project 'SpudScout' for better web scraping.
+
+* 21:26
+    - Created the web state obtainer for the SpudScout.
