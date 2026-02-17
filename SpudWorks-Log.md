@@ -105,3 +105,7 @@
 
 * 21:26
     - Created the web state obtainer for the SpudScout.
+
+* 06:57
+    - SpudScout can now process the image it obtains.
+    - BrotatoBoiV2 has logged out from work.
