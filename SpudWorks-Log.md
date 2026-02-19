@@ -110,9 +110,16 @@
     - SpudScout can now process the image it obtains.
     - BrotatoBoiV2 has logged out from work.
 
-*2026/02/07*
+*2026/02/17*
 * 17:48
     - BrotatoBoiV2 has logged in for work.
 
 * 20:14
     - SpudScout started to obtain the classifier module.
+
+* 21:40
+    - SpudScout can now read the text on a webpage.
+
+*2026/02/19*
+* 21:50
+    - BrotatoBoiV2 logged out from work.
