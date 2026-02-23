@@ -122,4 +122,13 @@
 
 *2026/02/19*
 * 21:50
-    - BrotatoBoiV2 logged out from work.
+    - BrotatoBoiV2 has logged out from work.
+
+*2026/02/20*
+* 17:10
+    - BrotatoBoiV2 has logged in for work.
+
+*2026/02/23*
+* 21:19
+    - SpudScout got a new straightend out architecture.
+    - BrotatoBoiV2 has logged out from work.
