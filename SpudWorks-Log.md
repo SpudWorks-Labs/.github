@@ -132,3 +132,23 @@
 * 21:19
     - SpudScout got a new straightend out architecture.
     - BrotatoBoiV2 has logged out from work.
+
+*2026/02/24*
+* 17:04
+    - BrotatoBoiV2 has logged in for work.
+
+*2026/02/25*
+* 06:44
+    - BrotatoBoiV2 has logged out from work.
+
+*2026/03/01*
+* 00:45
+    - SpudAudit has been locally created along with the planning
+      and architecting, and production can shortly begin.
+
+*2026/03/02*
+* 14:40
+    - BrotatoBoiV2 has logged in for work.
+
+* 15:15
+    - SpudAudit has been launched and is now being made publicly.
