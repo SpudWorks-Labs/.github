@@ -152,3 +152,11 @@
 
 * 15:15
     - SpudAudit has been launched and is now being made publicly.
+
+* 20:50
+    - SpudAgency has been launched and is now being made publicly.
+
+*2026/03/17*
+* 06:57
+    - SpudInference was created along with its skeleton.
+    - BrotatoBoiV2 has logged out from work.
