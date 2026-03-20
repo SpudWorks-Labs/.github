@@ -167,3 +167,18 @@
 * 21:54
     - SpudInference has made great steps, but the thinking model needs work.
     - BrotatoBoiV2 has logged out from work.
+
+*2026/03/20*
+* 03:16
+    - BrotatoBoiV2 has logged in for work.
+
+* 06:01
+    - Started introducing the tools to SpudInference.
+    - LoRA training for SpudInference has started for the weekend.
+    - BrotatoBoiV2 has logged out from work.
+
+* 18:12
+    - BrotatoBoiV2 has logged in for work.
+
+* 21:33
+    - BrotatoBoiV2 has logged out from work.
