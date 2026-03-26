@@ -209,3 +209,6 @@
 
 * 16:27
     - Phase 1C for MaSH has been completed.
+
+* 20:35
+    - Phase 1D for MaSH has been started.
