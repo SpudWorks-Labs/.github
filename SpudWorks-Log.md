@@ -221,3 +221,6 @@
 * 15:35
     - MaSH has been modulated a bit more for better
       maintenance.
+
+* 18:05
+    - BrotatoBoiV2 has logged out from work.
