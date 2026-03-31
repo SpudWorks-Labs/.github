@@ -298,3 +298,6 @@
     - Tests for the new menus in MaSH have been tested
       and will be polished during the week/
     - BrotatoBoi has logged out from work.
+
+* 16:00
+    - BrotatoBoi has logged in for work.
