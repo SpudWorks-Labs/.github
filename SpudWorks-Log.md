@@ -301,3 +301,12 @@
 
 * 16:00
     - BrotatoBoi has logged in for work.
+
+---
+
+### 2026/04/01
+* 06:52
+    - The updated menu for the Projects Manager is almost
+      complete. All that needs to be done is adding a 
+      sliding window for project display.
+    - BrotatoBoi has logged out from work.
