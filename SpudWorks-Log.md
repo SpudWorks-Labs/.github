@@ -282,31 +282,40 @@
 ---
 
 ### 2026/03/30
-* 17:55
+* 16:55
     - BrotatoBoi has logged in for work.
 
 ---
 
 ### 2026/03/30
-* 16:35
+* 15:35
     - BrotatoBoi has logged in for work.
 
 ---
 
 ### 2026/03/31
-* 07:03
+* 06:03
     - Tests for the new menus in MaSH have been tested
       and will be polished during the week/
     - BrotatoBoi has logged out from work.
 
-* 16:00
+* 15:00
     - BrotatoBoi has logged in for work.
 
 ---
 
 ### 2026/04/01
-* 06:52
+* 05:52
     - The updated menu for the Projects Manager is almost
       complete. All that needs to be done is adding a 
       sliding window for project display.
+    - BrotatoBoi has logged out from work.
+
+---
+
+### 2026/04/02
+* 15:05
+    - BrotatoBoi has logged in for work.
+
+* 19:00
     - BrotatoBoi has logged out from work.
