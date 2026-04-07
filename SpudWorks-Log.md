@@ -343,4 +343,24 @@
 
 ### 2026/04/06
 * 15:00
-    - BrotatoBoi logged in for work.
+    - BrotatoBoi has logged in for work.
+
+* 21:00
+    - BrotatoBoi has logged out from work.
+
+---
+
+### 2026/04/07
+* 14:50
+    - BrotatoBoi has logged in for work.
+    - Decided on adding a TO-DO section here for bigger
+      plans and ideas based around the company itself.
+
+* 17:23
+    - Phase 1 for MaSH has been finished, now Phase 2 is in
+      the works of implementation.
+
+---
+
+## TO-DO
+**[!!!!!!]** Finish migration to Codeberg.
