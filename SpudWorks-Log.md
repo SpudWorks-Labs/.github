@@ -408,5 +408,17 @@
     
 ---
 
+### 2026/04/13
+* 16:00
+    - BrotatoBoi has logged in for work.
+
+---
+
+### 2026/04.14
+* 05:50
+   - BrotatoBoi has logged out from work.
+
+---
+
 ## TO-DO
 **[!!!!!!]** Finish migration to Codeberg.
