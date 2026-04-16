@@ -414,9 +414,26 @@
 
 ---
 
-### 2026/04.14
+### 2026/04/14
 * 05:50
    - BrotatoBoi has logged out from work.
+
+* 15:20
+   - BrotatoBoi has logged in for work.
+
+* 20:00
+   - BrotatoBoi has logged out from work.
+
+---
+
+### 2026/04/16
+* 15:00
+   - BrotatoBoi has marked absent.
+      Reason: Mental Health
+---
+
+### 2026/04/15
+
 
 ---
 
